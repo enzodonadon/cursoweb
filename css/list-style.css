@@ -1,0 +1,9 @@
+ul li {
+    list-style-type: square; /*padrao: disc*/
+    list-style-position: inside; /*padrao: outside*/
+}
+
+ol li {
+    /*list-style-type:upper-roman;*/
+    list-style: lower-latin inside;
+}

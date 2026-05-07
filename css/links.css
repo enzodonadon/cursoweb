@@ -1,0 +1,28 @@
+/*h1, p, a*/body {
+    font-family: sans-serif;
+    color: red;
+}
+
+a {
+    padding: 10px;
+    display: inline-block;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    background-color: #ccc;
+}
+
+a:active {
+    background-color: yellow;
+}
+
+/*
+    a:link - nao acessou
+    a:visited - acessou
+    a:hover - mouse por cima
+    a:active - clicar
+*/

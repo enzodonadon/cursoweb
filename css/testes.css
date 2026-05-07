@@ -1,0 +1,12 @@
+a {
+    background-color: yellow;
+    padding: 10px;
+    display: inline-block;
+}
+
+strong {
+    background-color: rgb(211, 127, 127);
+    height: 60px;
+    display: inline-block;
+    /*visibility: hidden;*/
+}
